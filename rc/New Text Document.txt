@@ -1,0 +1,8 @@
+<doctype>
+<html>
+<tytle>
+Rashed Corporation
+</tytle>
+<body>welcome to Rashed Corporation</body>
+
+</html>
